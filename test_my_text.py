@@ -34,7 +34,7 @@ class AcademicTextAuditor:
     """
     
     CITATION_REGEX = re.compile(
-        r'(\[\d+(?:,\s*\d+)*\]|\([A-Z][a-zA-Z\s]+,\s*(?:19|20)\d{2}[a-z]?\)|et\s+al\.,?\s*(?:19|20)\d{2})'
+        r'(\[\d+(?:,\s*\d+)*\]|\([A-Z][a-zA-Z\s&,;.]*,\s*(?:19|20)\d{2}[a-z]?\)|et\s+al\.,?\s*(?:19|20)\d{2})'
     )
     
     LATEX_MATH_REGEX = re.compile(
