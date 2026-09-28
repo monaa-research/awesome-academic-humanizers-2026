@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this benchmark suite or academic evaluator in your research, please cite it as below."
+authors:
+  - family-names: "Roy"
+    given-names: "Aniruddha"
+    affiliation: "MONAA Technologies"
+  - family-names: "Ghosh"
+    given-names: "Rajashree"
+    affiliation: "MONAA Technologies"
+title: "Empirical Benchmark of Academic AI Humanizers and Token Perplexity Equilibrium"
+version: 2026.1.0
+date-released: 2026-09-28
+url: "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
+repository-code: "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
+license: MIT
+keywords:
+  - academic-integrity
+  - turnitin-bypass
+  - ai-detector-benchmark
+  - token-perplexity
+  - syntactic-burstiness
+  - citation-preservation

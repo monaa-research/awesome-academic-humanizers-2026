@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monaa-academic-audit"
+version = "2026.1.0"
+authors = [
+  { name="Aniruddha Roy", email="contact@monaa.tech" },
+  { name="Rajashree Ghosh", email="contact@monaa.tech" }
+]
+description = "Empirical academic text evaluator and Turnitin AI detection risk pre-flight auditor."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: Linguistic",
+]
+keywords = ["turnitin", "academic-integrity", "gptzero", "perplexity", "burstiness"]
+
+[project.scripts]
+monaa-audit = "test_my_text:main"
+
+[project.urls]
+"Homepage" = "https://monaa.tech"
+"Repository" = "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
+"Commercial Suite" = "https://arkhamite4.gumroad.com/l/monaa-paraphraser"

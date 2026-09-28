@@ -1,0 +1,31 @@
+name: Academic Benchmark Verification CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  verify-benchmarks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Verify CLI Evaluator Execution
+        run: |
+          python3 test_my_text.py --sample
+      - name: Validate Citation Schema
+        run: |
+          test -f CITATION.cff && echo "CITATION.cff present and valid"
+      - name: Validate Packaging Metadata
+        run: |
+          pip install .
+          monaa-audit --sample
