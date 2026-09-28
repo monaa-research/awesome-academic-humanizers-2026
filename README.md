@@ -95,7 +95,7 @@ If you reference this benchmark matrix or use the evaluator in empirical bibliom
   author = {Roy, Aniruddha and Ghosh, Rajashree},
   title = {Empirical Benchmark of Academic AI Humanizers and Token Perplexity Equilibrium},
   year = {2026},
-  publisher = {MONAA Technologies},
+  publisher = {MONAA™ Systems & Research},
   url = {https://github.com/monaa-technologies/awesome-academic-humanizers-2026}
 }
 ```
@@ -106,6 +106,6 @@ If you reference this benchmark matrix or use the evaluator in empirical bibliom
 
 * **Lead Inventor:** Aniruddha Roy  
 * **Systems Co-Architect:** Rajashree Ghosh  
-* **Organization:** MONAA Technologies (`monaa.tech`)  
+* **Organization:** MONAA™ Systems & Research (`monaa.tech`)  
 * **Commercial Inquiries:** `licensing@monaa.tech` or `roybballb@gmail.com`  
 * *All sovereign execution kernels, internal weights, and mathematical AST transformation engines are proprietary intellectual property. Open-core audit tools are licensed under the MIT License.*

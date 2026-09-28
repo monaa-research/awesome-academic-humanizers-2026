@@ -3,10 +3,10 @@ message: "If you use this benchmark suite or academic evaluator in your research
 authors:
   - family-names: "Roy"
     given-names: "Aniruddha"
-    affiliation: "MONAA Technologies"
+    affiliation: "MONAA™ Systems & Research"
   - family-names: "Ghosh"
     given-names: "Rajashree"
-    affiliation: "MONAA Technologies"
+    affiliation: "MONAA™ Systems & Research"
 title: "Empirical Benchmark of Academic AI Humanizers and Token Perplexity Equilibrium"
 version: 2026.1.0
 date-released: 2026-09-28
