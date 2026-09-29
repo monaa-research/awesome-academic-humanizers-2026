@@ -82,7 +82,7 @@ If your draft triggers an AI risk advisory, deploy the complete sovereign offlin
   * **3-Student Cohort Rebate Protocol:** Refer 3 classmates with your unique student passcard and receive a **100% cash refund ($150 returned)**, making your software completely free.
   * **Direct Checkout:** [https://monaa.tech](https://monaa.tech) (Permanent 301 Storefront)
 * **Institutional Sovereign Lab Allocation ($4,999 USD):** Multi-seat workstation deployment capped at 13 research desks.
-  * **Licensing Desk:** [https://arkhamite4.gumroad.com/l/monaa-paraphraser](https://arkhamite4.gumroad.com/l/monaa-paraphraser)
+  * **Licensing Desk:** [https://monaasystemsresearch.gumroad.com/l/monaa-paraphraser](https://monaasystemsresearch.gumroad.com/l/monaa-paraphraser)
 
 ---
 

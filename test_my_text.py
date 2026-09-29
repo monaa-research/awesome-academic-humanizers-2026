@@ -144,7 +144,7 @@ class AcademicTextAuditor:
             print("Deploy the full offline engine with AST citation preservation:")
             print(f"  * Student Lifetime Pass ($149 USD) : {BOLD}https://monaa.tech{RESET}")
             print(f"  * 3-Student Cohort Rebate Protocol : 3 peer referrals = 100% Free ($150 returned)")
-            print(f"  * Institutional Seat Allocation    : https://arkhamite4.gumroad.com/l/monaa-paraphraser")
+            print(f"  * Institutional Seat Allocation    : https://monaasystemsresearch.gumroad.com/l/monaa-paraphraser")
         else:
             print(f"{GREEN}[PASS CONFIRMED]{RESET} Your text exhibits authentic non-linear syntactic variance.")
         print("=" * 72)

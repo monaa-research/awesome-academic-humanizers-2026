@@ -28,4 +28,4 @@ monaa-audit = "test_my_text:main"
 [project.urls]
 "Homepage" = "https://monaa.tech"
 "Repository" = "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
-"Commercial Suite" = "https://arkhamite4.gumroad.com/l/monaa-paraphraser"
+"Commercial Suite" = "https://monaasystemsresearch.gumroad.com/l/monaa-paraphraser"
