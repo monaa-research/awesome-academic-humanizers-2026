@@ -102,10 +102,18 @@ If you reference this benchmark matrix or use the evaluator in empirical bibliom
 
 ---
 
-## 🛡️ Intellectual Property & Legal Notice
+## 🛡️ Intellectual Property, Compliance & Absolute Liability Waiver
 
-* **Entity:** MONAA™ Systems & Research (`https://monaa.tech`)  
-* **Commercial Inquiries:** `roybballb@gmail.com`  
-* **Legal Notice:** Any software run by any user makes it the user's sole liability for any issues, consequences, and losses.
-* *All sovereign execution kernels, internal weights, and mathematical AST transformation engines are proprietary intellectual property. Open-core audit tools are licensed under the MIT License.*
+**Entity:** MONAA™ Systems & Research ([monaa.tech](https://monaa.tech)) | **Commercial Desk:** `roybballb@gmail.com`
+
+### 1. Proprietary Intellectual Property & Anti-Distillation Notice
+All sovereign execution kernels, internal model weights, mathematical AST transformation engines, compiled binaries, and algorithms are the exclusive proprietary intellectual property of the inventors. Open-core audit tools and benchmark suites in this repository are licensed under the MIT License. Reverse engineering, decompilation, and utilizing software outputs or heuristics to train, fine-tune, or distill competing commercial artificial intelligence models are strictly prohibited. All rights reserved.
+
+### 2. Software Distribution & Sovereign Infrastructure Shield
+All software, modules, benchmarks, and scripts are provided on an **"AS IS"** and **"AS AVAILABLE"** basis without warranties of any kind, express or implied. Software execution occurs strictly within the user’s local, client-side, air-gapped computational environment. The end-user retains absolute custody and control over runtime configurations, target environments, and execution outputs. To the maximum extent permitted by law, the Released Parties disclaim all liability for operational failures, market microstructure losses, trading slippage, regulatory consequences, or academic integrity flags. In all events, aggregate cumulative liability is strictly capped at the fees paid by the user or $100.00 USD.
+
+### 3. Academic, Cybersecurity & Regulatory Compliance Warranty
+MONAA™ tools are distributed solely for mathematical research, defensive syntax optimization, and authorized local benchmarking. The systems do not constitute professional, legal, cybersecurity, financial, or investment advice. End-users explicitly warrant that: (a) all web security or edge WAF evaluations are conducted strictly on assets owned or authorized in writing by the asset custodian; and (b) usage strictly complies with all applicable institutional honor codes, university integrity frameworks, and domestic laws.
+
+**Master Terms, Arbitration & Indemnification Charter:** [https://monaa.tech/legal](https://monaa.tech/legal)
 
