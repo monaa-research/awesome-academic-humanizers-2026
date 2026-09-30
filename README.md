@@ -1,6 +1,6 @@
 # Awesome Academic AI Humanizers & Detector Benchmarks (2026 Edition)
 
-[![Benchmark CI](https://github.com/monaa-technologies/awesome-academic-humanizers-2026/actions/workflows/daily_benchmark_ci.yml/badge.svg)](https://github.com/monaa-technologies/awesome-academic-humanizers-2026)
+[![Benchmark CI](https://github.com/monaa-research/awesome-academic-humanizers-2026/actions/workflows/daily_benchmark_ci.yml/badge.svg)](https://github.com/monaa-research/awesome-academic-humanizers-2026)
 [![Audit Status](https://img.shields.io/badge/Turnitin%20Audit-1.8%25%20Verified%20Pass-emerald)](https://monaa.tech)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://monaa.tech)
@@ -40,7 +40,7 @@ Clone this repository and audit your research draft locally in `< 0.2s` before u
 
 ```bash
 # Clone the open-core benchmark repository
-git clone https://github.com/monaa-technologies/awesome-academic-humanizers-2026.git
+git clone https://github.com/monaa-research/awesome-academic-humanizers-2026.git
 cd awesome-academic-humanizers-2026
 
 # Run pre-flight audit on sample or your own thesis draft
@@ -55,7 +55,7 @@ monaa-audit --file my_thesis_draft.tex
 ```text
 ========================================================================
 MONAA ACADEMIC INTEGRITY AUDIT // OPEN-CORE EVALUATOR (2026)
-Co-Inventors: Aniruddha Roy & Rajashree Ghosh | Engine: https://monaa.tech
+Entity: MONAA™ Systems & Research | Engine: https://monaa.tech
 ========================================================================
 Total Words Analyzed        : 582
 Sentences Evaluated         : 34 (Mean Length: 17.1 words)
@@ -92,20 +92,20 @@ If you reference this benchmark matrix or use the evaluator in empirical bibliom
 
 ```bibtex
 @software{monaa_academic_benchmark_2026,
-  author = {Roy, Aniruddha and Ghosh, Rajashree},
+  author = {{MONAA™ Systems & Research}},
   title = {Empirical Benchmark of Academic AI Humanizers and Token Perplexity Equilibrium},
   year = {2026},
   publisher = {MONAA™ Systems & Research},
-  url = {https://github.com/monaa-technologies/awesome-academic-humanizers-2026}
+  url = {https://github.com/monaa-research/awesome-academic-humanizers-2026}
 }
 ```
 
 ---
 
-## 🛡️ Intellectual Property & Co-Inventorship Notice
+## 🛡️ Intellectual Property & Legal Notice
 
-* **Lead Inventor:** Aniruddha Roy  
-* **Systems Co-Architect:** Rajashree Ghosh  
-* **Organization:** MONAA™ Systems & Research (`monaa.tech`)  
-* **Commercial Inquiries:** `licensing@monaa.tech` or `roybballb@gmail.com`  
+* **Entity:** MONAA™ Systems & Research (`https://monaa.tech`)  
+* **Commercial Inquiries:** `roybballb@gmail.com`  
+* **Legal Notice:** Any software run by any user makes it the user's sole liability for any issues, consequences, and losses.
 * *All sovereign execution kernels, internal weights, and mathematical AST transformation engines are proprietary intellectual property. Open-core audit tools are licensed under the MIT License.*
+

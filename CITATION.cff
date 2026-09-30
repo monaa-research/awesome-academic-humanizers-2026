@@ -1,17 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this benchmark suite or academic evaluator in your research, please cite it as below."
 authors:
-  - family-names: "Roy"
-    given-names: "Aniruddha"
-    affiliation: "MONAA™ Systems & Research"
-  - family-names: "Ghosh"
-    given-names: "Rajashree"
-    affiliation: "MONAA™ Systems & Research"
+  - name: "MONAA™ Systems & Research"
+    website: "https://monaa.tech"
 title: "Empirical Benchmark of Academic AI Humanizers and Token Perplexity Equilibrium"
 version: 2026.1.0
 date-released: 2026-09-28
-url: "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
-repository-code: "https://github.com/monaa-technologies/awesome-academic-humanizers-2026"
+url: "https://github.com/monaa-research/awesome-academic-humanizers-2026"
+repository-code: "https://github.com/monaa-research/awesome-academic-humanizers-2026"
 license: MIT
 keywords:
   - academic-integrity

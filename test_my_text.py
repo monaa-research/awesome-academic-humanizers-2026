@@ -5,9 +5,10 @@ MONAA Academic Integrity Audit // Open-Core Pre-Flight Text Evaluator
 Measures sentence-level token perplexity variance, clause entropy, and 
 statutory citation integrity to estimate Turnitin & GPTZero false-positive risk.
 
-Co-Inventors: Aniruddha Roy & Rajashree Ghosh
-Official Repository: https://github.com/monaa-technologies/awesome-academic-humanizers-2026
+Entity: MONAA™ Systems & Research // Sovereign Infrastructure & Intellectual Property Custodian
+Official Repository: https://github.com/monaa-research/awesome-academic-humanizers-2026
 Commercial Engine: https://monaa.tech
+Legal Notice: Any software run by any user makes it the user's sole liability for any issues, consequences, and losses.
 """
 
 import os
